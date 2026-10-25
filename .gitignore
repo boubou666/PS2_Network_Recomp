@@ -1,0 +1,17 @@
+# Game data: never commit disc images, extracted files or anything derived from them.
+*.bin
+*.cue
+*.iso
+*.img
+*.IMG
+*.BIN
+*.CUE
+*.ISO
+game/
+extract/
+out/
+
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
